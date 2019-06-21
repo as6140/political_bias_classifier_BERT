@@ -1,3 +1,7 @@
+ Pretrained BERT model:
+ [BERT-Base, Multilingual Cased (New, recommended)](https://storage.googleapis.com/bert_models/2018_11_23/multi_cased_L-12_H-768_A-12.zip): 104 languages, 12-layer, 768-hidden, 12-heads, 110M parameters
+ 
+ 
  **Refactored version of Separius/BERT-keras which focuses on providing the two functionalities:**
  
  * _Load a pretrained tensorflow BERT model (load_pretrained_bert.py) and use it as a usual keras model_
