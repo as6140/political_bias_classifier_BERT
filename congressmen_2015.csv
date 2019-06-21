@@ -1,0 +1,506 @@
+First,Last,congressman,affiliation
+Gregorio,Sablan,Gregorio Sablan (Representative from NA),d
+Robert,Aderholt,Robert Aderholt (Representative from Alabama),r
+Lamar,Alexander,Lamar Alexander (Senator from Tennessee),r
+Justin,Amash,Justin Amash (Representative from Michigan),r
+Mark,Amodei,Mark Amodei (Representative from Nevada),r
+Jo Ann,Emerson,Jo Ann Emerson (Representative from Missouri),r
+Kelly,Ayotte,Kelly Ayotte (Senator from New Hampshire),r
+Michele,Bachmann,Michele Bachmann (Representative from Minnesota),r
+Spencer,Bachus,Spencer Bachus (Representative from Alabama),r
+Tammy,Baldwin,Tammy Baldwin (Senator from Wisconsin),d
+Ron,Barber,Ron Barber (Representative from Arizona),d
+Lou,Barletta,Lou Barletta (Representative from Pennsylvania),r
+Andy,Barr,Andy Barr (Representative from Kentucky),r
+John,Barrasso,John Barrasso (Senator from Wyoming),r
+John,Barrow,John Barrow (Representative from Georgia),d
+Joe,Barton,Joe Barton (Representative from Texas),r
+Karen,Bass,Karen Bass (Representative from California),d
+Joyce,Beatty,Joyce Beatty (Representative from Ohio),d
+Xavier,Becerra,Xavier Becerra (Representative from California),d
+Mark,Begich,Mark Begich (Senator from Alaska),d
+Dan,Benishek,Dan Benishek (Representative from Michigan),r
+Michael,Bennet,Michael Bennet (Senator from Colorado),d
+Kerry,Bentivolio,Kerry Bentivolio (Representative from Michigan),r
+Ami,Bera,Ami Bera (Representative from California),d
+Gus,Bilirakis,Gus Bilirakis (Representative from Florida),r
+Timothy,Bishop,Timothy Bishop (Representative from New York),d
+Sanford,Bishop,Sanford Bishop Jr. (Representative from Georgia),d
+Diane,Black,Diane Black (Representative from Tennessee),r
+Marsha,Blackburn,Marsha Blackburn (Representative from Tennessee),r
+Richard,Blumenthal,Richard Blumenthal (Senator from Connecticut),d
+Roy,Blunt,Roy Blunt (Senator from Missouri),r
+John,Boehner,John Boehner (Representative from Ohio),r
+Suzanne,Bonamici,Suzanne Bonamici (Representative from Oregon),d
+Cory,Booker,Cory Booker (Senator from New Jersey),d
+John,Boozman,John Boozman (Senator from Arkansas),r
+Madeleine,Bordallo,Madeleine Bordallo (Representative from GU),d
+Charles,Boustany,Charles Boustany Jr. (Representative from Louisiana),r
+Barbara,Boxer,Barbara Boxer (Senator from California),d
+Kevin,Brady,Kevin Brady (Representative from Texas),r
+Bruce,Braley,Bruce Braley (Representative from Iowa),d
+Jim,Bridenstine,Jim Bridenstine (Representative from Oklahoma),r
+Susan,Brooks,Susan Brooks (Representative from Indiana),r
+Mo,Brooks,Mo Brooks (Representative from Alabama),r
+Sherrod,Brown,Sherrod Brown (Senator from Ohio),d
+Corrine,Brown,Corrine Brown (Representative from Florida),d
+Julia,Brownley,Julia Brownley (Representative from California),d
+Vern,Buchanan,Vern Buchanan (Representative from Florida),r
+Larry,Bucshon,Larry Bucshon (Representative from Indiana),r
+Michael,Burgess,Michael Burgess (Representative from Texas),r
+Richard,Burr,Richard Burr (Senator from North Carolina),r
+Cheri,Bustos,Cheri Bustos (Representative from Illinois),d
+G.,Butterfield,G. Butterfield (Representative from North Carolina),d
+Bradley,Byrne,Bradley Byrne (Representative from Alabama),r
+Ken,Calvert,Ken Calvert (Representative from California),r
+John,Campbell,John Campbell (Representative from California),r
+Eric,Cantor,Eric Cantor (Representative from Virginia),r
+Maria,Cantwell,Maria Cantwell (Senator from Washington),d
+Shelley,Capito,Shelley Capito (Representative from West Virginia),r
+Lois,Capps,Lois Capps (Representative from California),d
+Michael,Capuano,Michael Capuano (Representative from Massachusetts),d
+Tony,Cardenas,Tony Cardenas (Representative from California),d
+Benjamin,Cardin,Benjamin Cardin (Senator from Maryland),d
+John,Carney,John Carney (Representative from Delaware),d
+Thomas,Carper,Thomas Carper (Senator from Delaware),d
+Andre,Carson,Andre Carson (Representative from Indiana),d
+John,Carter,John Carter (Representative from Texas),r
+Matt,Cartwright,Matt Cartwright (Representative from Pennsylvania),d
+Bob,Casey,Bob Casey (Senator from Pennsylvania),d
+Bill,Cassidy,Bill Cassidy (Representative from Louisiana),r
+Kathy,Castor,Kathy Castor (Representative from Florida),d
+Joaquin,Castro,Joaquin Castro (Representative from Texas),d
+Steven,Chabot,Steven Chabot (Representative from Ohio),r
+Jason,Chaffetz,Jason Chaffetz (Representative from Utah),r
+Judy,Chu,Judy Chu (Representative from California),d
+David,Cicilline,David Cicilline (Representative from Rhode Island),d
+Katherine,Clark,Katherine Clark (Representative from Massachusetts),d
+Yvette,Clarke,Yvette Clarke (Representative from New York),d
+Emanuel,Cleaver,Emanuel Cleaver II (Representative from Missouri),d
+James,Clyburn,James Clyburn (Representative from South Carolina),d
+Daniel,Coats,Daniel Coats (Senator from Indiana),r
+Howard,Coble,Howard Coble (Representative from North Carolina),r
+Tom,Coburn,Tom Coburn (Senator from Oklahoma),r
+Thad,Cochran,Thad Cochran (Senator from Mississippi),r
+Mike,Coffman,Mike Coffman (Representative from Colorado),r
+Steve,Cohen,Steve Cohen (Representative from Tennessee),d
+Tom,Cole,Tom Cole (Representative from Oklahoma),r
+Chris,Collins,Chris Collins (Representative from New York),r
+Susan,Collins,Susan Collins (Senator from Maine),r
+Doug,Collins,Doug Collins (Representative from Georgia),r
+K.,Conaway,K. Conaway (Representative from Texas),r
+Gerald,Connolly,Gerald Connolly (Representative from Virginia),d
+John,Conyers,John Conyers Jr. (Representative from Michigan),d
+Paul,Cook,Paul Cook (Representative from California),r
+Christopher,Coons,Christopher Coons (Senator from Delaware),d
+Jim,Cooper,Jim Cooper (Representative from Tennessee),d
+Bob,Corker,Bob Corker (Senator from Tennessee),r
+John,Cornyn,John Cornyn (Senator from Texas),r
+Jim,Costa,Jim Costa (Representative from California),d
+Tom,Cotton,Tom Cotton (Representative from Arkansas),r
+Joe,Courtney,Joe Courtney (Representative from Connecticut),d
+William,Cowan,William Cowan (Senator from Massachusetts),d
+Kevin,Cramer,Kevin Cramer (Representative from North Dakota),r
+Michael,Crapo,Michael Crapo (Senator from Idaho),r
+Rick,Crawford,Rick Crawford (Representative from Arkansas),r
+Ander,Crenshaw,Ander Crenshaw (Representative from Florida),r
+Joseph,Crowley,Joseph Crowley (Representative from New York),d
+Ted,Cruz,Ted Cruz (Senator from Texas),r
+Henry,Cuellar,Henry Cuellar (Representative from Texas),d
+John,Culberson,John Culberson (Representative from Texas),r
+Elijah,Cummings,Elijah Cummings (Representative from Maryland),d
+Steve,Daines,Steve Daines (Representative from Montana),r
+Rodney,Davis,Rodney Davis (Representative from Illinois),r
+Susan,Davis,Susan Davis (Representative from California),d
+Danny,Davis,Danny Davis (Representative from Illinois),d
+Peter,DeFazio,Peter DeFazio (Representative from Oregon),d
+Diana,DeGette,Diana DeGette (Representative from Colorado),d
+John,Delaney,John Delaney (Representative from Maryland),d
+Rosa,DeLauro,Rosa DeLauro (Representative from Connecticut),d
+Suzan,DelBene,Suzan DelBene (Representative from Washington),d
+Jeffrey,Denham,Jeffrey Denham (Representative from California),r
+Charlie,Dent,Charlie Dent (Representative from Pennsylvania),r
+Ron,DeSantis,Ron DeSantis (Representative from Florida),r
+Scott,DesJarlais,Scott DesJarlais (Representative from Tennessee),r
+Ted,Deutch,Ted Deutch (Representative from Florida),d
+Mario,Diaz-Balart,Mario Diaz-Balart (Representative from Florida),r
+John,Dingell,John Dingell (Representative from Michigan),d
+Lloyd,Doggett,Lloyd Doggett (Representative from Texas),d
+Joe,Donnelly,Joe Donnelly (Senator from Indiana),d
+Mike,Doyle,Mike Doyle (Representative from Pennsylvania),d
+Tammy,Duckworth,Tammy Duckworth (Representative from Illinois),d
+Sean,Duffy,Sean Duffy (Representative from Wisconsin),r
+Jeffrey,Duncan,Jeffrey Duncan (Representative from South Carolina),r
+John,Duncan,John Duncan Jr. (Representative from Tennessee),r
+Richard,Durbin,Richard Durbin (Senator from Illinois),d
+C.A.,Dutch,C.A. Dutch Ruppersberger (Representative from Maryland),d
+Donna,Edwards,Donna Edwards (Representative from Maryland),d
+Keith,Ellison,Keith Ellison (Representative from Minnesota),d
+Renee,Ellmers,Renee Ellmers (Representative from North Carolina),r
+Eliot,Engel,Eliot Engel (Representative from New York),d
+Bill,Enyart,Bill Enyart (Representative from Illinois),d
+Michael,Enzi,Michael Enzi (Senator from Wyoming),r
+Anna,Eshoo,Anna Eshoo (Representative from California),d
+Elizabeth,Esty,Elizabeth Esty (Representative from Connecticut),d
+Blake,Farenthold,Blake Farenthold (Representative from Texas),r
+Sam,Farr,Sam Farr (Representative from California),d
+Chaka,Fattah,Chaka Fattah (Representative from Pennsylvania),d
+Dianne,Feinstein,Dianne Feinstein (Senator from California),d
+Stephen,Fincher,Stephen Fincher (Representative from Tennessee),r
+Deb,Fischer,Deb Fischer (Senator from Nebraska),r
+Michael,Fitzpatrick,Michael Fitzpatrick (Representative from Pennsylvania),r
+Jeff,Flake,Jeff Flake (Senator from Arizona),r
+Chuck,Fleischmann,Chuck Fleischmann (Representative from Tennessee),r
+John,Fleming,John Fleming (Representative from Louisiana),r
+Bill,Flores,Bill Flores (Representative from Texas),r
+J.,Forbes,J. Forbes (Representative from Virginia),r
+Jeff,Fortenberry,Jeff Fortenberry (Representative from Nebraska),r
+Bill,Foster,Bill Foster (Representative from Illinois),d
+Virginia,Foxx,Virginia Foxx (Representative from North Carolina),r
+Lois,Frankel,Lois Frankel (Representative from Florida),d
+Al,Franken,Al Franken (Senator from Minnesota),d
+Trent,Franks,Trent Franks (Representative from Arizona),r
+Rodney,Frelinghuysen,Rodney Frelinghuysen (Representative from New Jersey),r
+Marcia,Fudge,Marcia Fudge (Representative from Ohio),d
+Tulsi,Gabbard,Tulsi Gabbard (Representative from Hawaii),d
+Pete,Gallego,Pete Gallego (Representative from Texas),d
+John,Garamendi,John Garamendi (Representative from California),d
+Joe,Garcia,Joe Garcia (Representative from Florida),d
+Cory,Gardner,Cory Gardner (Representative from Colorado),r
+Scott,Garrett,Scott Garrett (Representative from New Jersey),r
+Bob,Gibbs,Bob Gibbs (Representative from Ohio),r
+Chris,Gibson,Chris Gibson (Representative from New York),r
+Kirsten,Gillibrand,Kirsten Gillibrand (Senator from New York),d
+Louie,Gohmert,Louie Gohmert (Representative from Texas),r
+Robert,Goodlatte,Robert Goodlatte (Representative from Virginia),r
+Paul,Gosar,Paul Gosar (Representative from Arizona),r
+Trey,Gowdy,Trey Gowdy (Representative from South Carolina),r
+Lindsey,Graham,Lindsey Graham (Senator from South Carolina),r
+Kay,Granger,Kay Granger (Representative from Texas),r
+Charles,Grassley,Charles Grassley (Senator from Iowa),r
+Tom,Graves,Tom Graves (Representative from Georgia),r
+Sam,Graves,Sam Graves (Representative from Missouri),r
+Alan,Grayson,Alan Grayson (Representative from Florida),d
+Gene,Green,Gene Green (Representative from Texas),d
+Al,Green,Al Green (Representative from Texas),d
+Tim,Griffin,Tim Griffin (Representative from Arkansas),r
+Morgan,Griffith,Morgan Griffith (Representative from Virginia),r
+Raul,Grijalva,Raul Grijalva (Representative from Arizona),d
+Mike,Grimm,Mike Grimm (Representative from New York),r
+Brett,Guthrie,Brett Guthrie (Representative from Kentucky),r
+Luis,Gutierrez,Luis Gutierrez (Representative from Illinois),d
+Kay,Hagan,Kay Hagan (Senator from North Carolina),d
+Janice,Hahn,Janice Hahn (Representative from California),d
+Ralph,Hall,Ralph Hall (Representative from Texas),r
+Colleen,Hanabusa,Colleen Hanabusa (Representative from Hawaii),d
+Richard,Hanna,Richard Hanna (Representative from New York),r
+Tom,Harkin,Tom Harkin (Senator from Iowa),d
+Gregg,Harper,Gregg Harper (Representative from Mississippi),r
+Andy,Harris,Andy Harris (Representative from Maryland),r
+Vicky,Hartzler,Vicky Hartzler (Representative from Missouri),r
+Doc,Hastings,Doc Hastings (Representative from Washington),r
+Alcee,Hastings,Alcee Hastings (Representative from Florida),d
+Orrin,Hatch,Orrin Hatch (Senator from Utah),r
+Joe,Heck,Joe Heck (Representative from Nevada),r
+Denny,Heck,Denny Heck (Representative from Washington),d
+Martin,Heinrich,Martin Heinrich (Senator from New Mexico),d
+Heidi,Heitkamp,Heidi Heitkamp (Senator from North Dakota),d
+Dean,Heller,Dean Heller (Senator from Nevada),r
+Jeb,Hensarling,Jeb Hensarling (Representative from Texas),r
+Jaime,Herrera,Jaime Herrera Beutler (Representative from Washington),r
+Brian,Higgins,Brian Higgins (Representative from New York),d
+Jim,Himes,Jim Himes (Representative from Connecticut),d
+Ruben,Hinojosa,Ruben Hinojosa (Representative from Texas),d
+John,Hoeven,John Hoeven (Senator from North Dakota),r
+George,Holding,George Holding (Representative from North Carolina),r
+Rush,Holt,Rush Holt (Representative from New Jersey),d
+Michael,Honda,Michael Honda (Representative from California),d
+Steven,Horsford,Steven Horsford (Representative from Nevada),d
+Steny,Hoyer,Steny Hoyer (Representative from Maryland),d
+Richard,Hudson,Richard Hudson (Representative from North Carolina),r
+Tim,Huelskamp,Tim Huelskamp (Representative from Kansas),r
+Jared,Huffman,Jared Huffman (Representative from California),d
+Bill,Huizenga,Bill Huizenga (Representative from Michigan),r
+Randy,Hultgren,Randy Hultgren (Representative from Illinois),r
+Duncan,Hunter,Duncan Hunter (Representative from California),r
+Robert,Hurt,Robert Hurt (Representative from Virginia),r
+James,Inhofe,James Inhofe (Senator from Oklahoma),r
+Johnny,Isakson,Johnny Isakson (Senator from Georgia),r
+Steve,Israel,Steve Israel (Representative from New York),d
+Darrell,Issa,Darrell Issa (Representative from California),r
+Sheila,Jackson-Lee,Sheila Jackson-Lee (Representative from Texas),d
+Hakeem,Jeffries,Hakeem Jeffries (Representative from New York),d
+Lynn,Jenkins,Lynn Jenkins (Representative from Kansas),r
+Mike,Johanns,Mike Johanns (Senator from Nebraska),r
+Bill,Johnson,Bill Johnson (Representative from Ohio),r
+Eddie,Johnson,Eddie Johnson (Representative from Texas),d
+Tim,Johnson,Tim Johnson (Senator from South Dakota),d
+Ron,Johnson,Ron Johnson (Senator from Wisconsin),r
+Hank,Johnson,Hank Johnson (Representative from Georgia),d
+Sam,Johnson,Sam Johnson (Representative from Texas),r
+Walter,Jones,Walter Jones (Representative from North Carolina),r
+Jim,Jordan,Jim Jordan (Representative from Ohio),r
+Dave,Joyce,Dave Joyce (Representative from Ohio),r
+Tim,Kaine,Tim Kaine (Senator from Virginia),d
+Marcy,Kaptur,Marcy Kaptur (Representative from Ohio),d
+Bill,Keating,Bill Keating (Representative from Massachusetts),d
+Robin,Kelly,Robin Kelly (Representative from Illinois),d
+Mike,Kelly,Mike Kelly (Representative from Pennsylvania),r
+Joseph,Kennedy,Joseph Kennedy III (Representative from Massachusetts),d
+Dan,Kildee,Dan Kildee (Representative from Michigan),d
+Derek,Kilmer,Derek Kilmer (Representative from Washington),d
+Ron,Kind,Ron Kind (Representative from Wisconsin),d
+Angus,King,Angus King (Senator from Maine),i
+Peter,King,Peter King (Representative from New York),r
+Steve,King,Steve King (Representative from Iowa),r
+Jack,Kingston,Jack Kingston (Representative from Georgia),r
+Adam,Kinzinger,Adam Kinzinger (Representative from Illinois),r
+Mark,Kirk,Mark Kirk (Senator from Illinois),r
+Ann,Kirkpatrick,Ann Kirkpatrick (Representative from Arizona),d
+John,Kline,John Kline (Representative from Minnesota),r
+Amy,Klobuchar,Amy Klobuchar (Senator from Minnesota),d
+Ann,Kuster,Ann Kuster (Representative from New Hampshire),d
+Raul,Labrador,Raul Labrador (Representative from Idaho),r
+Doug,Lamborn,Doug Lamborn (Representative from Colorado),r
+Leonard,Lance,Leonard Lance (Representative from New Jersey),r
+Mary,Landrieu,Mary Landrieu (Senator from Louisiana),d
+Jim,Langevin,Jim Langevin (Representative from Rhode Island),d
+James,Lankford,James Lankford (Representative from Oklahoma),r
+Rick,Larsen,Rick Larsen (Representative from Washington),d
+John,Larson,John Larson (Representative from Connecticut),d
+Tom,Latham,Tom Latham (Representative from Iowa),r
+Robert,Latta,Robert Latta (Representative from Ohio),r
+Frank,Lautenberg,Frank Lautenberg (Senator from New Jersey),d
+Patrick,Leahy,Patrick Leahy (Senator from Vermont),d
+Mike,Lee,Mike Lee (Senator from Utah),r
+Barbara,Lee,Barbara Lee (Representative from California),d
+Sander,Levin,Sander Levin (Representative from Michigan),d
+Carl,Levin,Carl Levin (Senator from Michigan),d
+John,Lewis,John Lewis (Representative from Georgia),d
+Daniel,Lipinski,Daniel Lipinski (Representative from Illinois),d
+Frank,LoBiondo,Frank LoBiondo (Representative from New Jersey),r
+Dave,Loebsack,Dave Loebsack (Representative from Iowa),d
+Zoe,Lofgren,Zoe Lofgren (Representative from California),d
+Billy,Long,Billy Long (Representative from Missouri),r
+Alan,Lowenthal,Alan Lowenthal (Representative from California),d
+Nita,Lowey,Nita Lowey (Representative from New York),d
+Michelle,Lujan,Michelle Lujan Grisham (Representative from New Mexico),d
+Ben,Lujan,Ben Lujan (Representative from New Mexico),d
+Cynthia,Lummis,Cynthia Lummis (Representative from Wyoming),r
+Stephen,Lynch,Stephen Lynch (Representative from Massachusetts),d
+Dan,Maffei,Dan Maffei (Representative from New York),d
+Sean,Maloney,Sean Maloney (Representative from New York),d
+Carolyn,Maloney,Carolyn Maloney (Representative from New York),d
+Joe,Manchin,Joe Manchin III (Senator from West Virginia),d
+Kenny,Marchant,Kenny Marchant (Representative from Texas),r
+Tom,Marino,Tom Marino (Representative from Pennsylvania),r
+Edward,Markey,Edward Markey (Senator from Massachusetts),d
+Thomas,Massie,Thomas Massie (Representative from Kentucky),r
+Jim,Matheson,Jim Matheson (Representative from Utah),d
+Doris,Matsui,Doris Matsui (Representative from California),d
+John,McCain,John McCain (Senator from Arizona),r
+Kevin,McCarthy,Kevin McCarthy (Representative from California),d
+Claire,McCaskill,Claire McCaskill (Senator from Missouri),d
+Michael,McCaul,Michael McCaul (Representative from Texas),r
+Betty,McCollum,Betty McCollum (Representative from Minnesota),d
+Mitch,McConnell,Mitch McConnell (Senator from Kentucky),r
+Jim,McDermott,Jim McDermott (Representative from Washington),d
+Jim,McGovern,Jim McGovern (Representative from Massachusetts),d
+Patrick,McHenry,Patrick McHenry (Representative from North Carolina),r
+Mike,McIntyre,Mike McIntyre (Representative from North Carolina),d
+David,McKinley,David McKinley (Representative from West Virginia),r
+Cathy,McMorris,Cathy McMorris Rodgers (Representative from Washington),r
+Jerry,McNerney,Jerry McNerney (Representative from California),d
+Mark,Meadows,Mark Meadows (Representative from North Carolina),r
+Pat,Meehan,Pat Meehan (Representative from Pennsylvania),r
+Gregory,Meeks,Gregory Meeks (Representative from New York),d
+Robert,Menendez,Robert Menendez (Senator from New Jersey),d
+Grace,Meng,Grace Meng (Representative from New York),d
+Jeff,Merkley,Jeff Merkley (Senator from Oregon),d
+Luke,Messer,Luke Messer (Representative from Indiana),r
+John,Mica,John Mica (Representative from Florida),r
+Michael,Michaud,Michael Michaud (Representative from Maine),d
+Barbara,Mikulski,Barbara Mikulski (Senator from Maryland),d
+Candice,Miller,Candice Miller (Representative from Michigan),r
+George,Miller,George Miller (Representative from California),d
+Jeff,Miller,Jeff Miller (Representative from Florida),r
+Gwen,Moore,Gwen Moore (Representative from Wisconsin),d
+Jerry,Moran,Jerry Moran (Senator from Kansas),r
+James,Moran,James Moran (Representative from Virginia),d
+Markwayne,Mullin,Markwayne Mullin (Representative from Oklahoma),r
+Mick,Mulvaney,Mick Mulvaney (Representative from South Carolina),r
+Lisa,Murkowski,Lisa Murkowski (Senator from Alaska),r
+Patrick,Murphy,Patrick Murphy (Representative from Florida),d
+Christopher,Murphy,Christopher Murphy (Senator from Connecticut),d
+Tim,Murphy,Tim Murphy (Representative from Pennsylvania),r
+Patty,Murray,Patty Murray (Senator from Washington),d
+Jerrold,Nadler,Jerrold Nadler (Representative from New York),d
+Grace,Napolitano,Grace Napolitano (Representative from California),d
+Richard,Neal,Richard Neal (Representative from Massachusetts),d
+Bill,Nelson,Bill Nelson (Senator from Florida),d
+Randy,Neugebauer,Randy Neugebauer (Representative from Texas),r
+Kristi,Noem,Kristi Noem (Representative from South Dakota),r
+Rick,Nolan,Rick Nolan (Representative from Minnesota),d
+Eleanor,Norton,Eleanor Norton (Representative from NA),d
+Alan,Nunnelee,Alan Nunnelee (Representative from Mississippi),r
+Beto,O'Rourke,Beto O'Rourke (Representative from Texas),d
+Pete,Olson,Pete Olson (Representative from Texas),d
+Steven,Palazzo,Steven Palazzo (Representative from Mississippi),r
+Frank,Pallone,Frank Pallone (Representative from New Jersey),d
+Bill,Pascrell,Bill Pascrell Jr. (Representative from New Jersey),d
+Rand,Paul,Rand Paul (Senator from Kentucky),r
+Erik,Paulsen,Erik Paulsen (Representative from Minnesota),r
+Donald,Payne,Donald Payne Jr. (Representative from New Jersey),d
+Steve,Pearce,Steve Pearce (Representative from New Mexico),r
+Nancy,Pelosi,Nancy Pelosi (Representative from California),d
+Ed,Perlmutter,Ed Perlmutter (Representative from Colorado),d
+Scott,Perry,Scott Perry (Representative from Pennsylvania),r
+Scott,Peters,Scott Peters (Representative from California),d
+Gary,Peters,Gary Peters (Representative from Michigan),d
+Pedro,Pierluisi,Pedro Pierluisi (Representative from NA),d
+Chellie,Pingree,Chellie Pingree (Representative from Maine),d
+Robert,Pittenger,Robert Pittenger (Representative from North Carolina),r
+Mark,Pocan,Mark Pocan (Representative from Wisconsin),d
+Ted,Poe,Ted Poe (Representative from Texas),r
+Jared,Polis,Jared Polis (Representative from Colorado),d
+Mike,Pompeo,Mike Pompeo (Representative from Kansas),r
+Rob,Portman,Rob Portman (Senator from Ohio),r
+Tom,Price,Tom Price (Representative from Georgia),r
+David,Price,David Price (Representative from North Carolina),d
+Mark,Pryor,Mark Pryor (Senator from Arkansas),d
+Mike,Quigley,Mike Quigley (Representative from Illinois),d
+Trey,Radel,Trey Radel (Representative from Florida),r
+Charles,Rangel,Charles Rangel (Representative from New York),d
+Jack,Reed,Jack Reed (Senator from Rhode Island),d
+Tom,Reed,Tom Reed (Representative from New York),r
+Dave,Reichert,Dave Reichert (Representative from Washington),r
+Harry,Reid,Harry Reid (Senator from Nevada),d
+Jim,Renacci,Jim Renacci (Representative from Ohio),r
+Reid,Ribble,Reid Ribble (Representative from Wisconsin),r
+Tom,Rice,Tom Rice (Representative from South Carolina),r
+Cedric,Richmond,Cedric Richmond (Representative from Louisiana),d
+Scott,Rigell,Scott Rigell (Representative from Virginia),r
+Pat,Roberts,Pat Roberts (Senator from Kansas),r
+Martha,Roby,Martha Roby (Representative from Alabama),r
+John,Rockefeller,John Rockefeller IV (Senator from West Virginia),d
+Phil,Roe,Phil Roe (Representative from Tennessee),r
+Harold,Rogers,Harold Rogers (Representative from Kentucky),r
+Mike,Rogers,Mike Rogers (Representative from Michigan),r
+Mike,Rogers,Mike Rogers (Representative from Alabama),r
+Dana,Rohrabacher,Dana Rohrabacher (Representative from California),r
+Todd,Rokita,Todd Rokita (Representative from Indiana),r
+Tom,Rooney,Tom Rooney (Representative from Florida),r
+Ileana,Ros-Lehtinen,Ileana Ros-Lehtinen (Representative from Florida),r
+Peter,Roskam,Peter Roskam (Representative from Illinois),r
+Dennis,Ross,Dennis Ross (Representative from Florida),r
+Keith,Rothfus,Keith Rothfus (Representative from Pennsylvania),r
+Lucille,Roybal-Allard,Lucille Roybal-Allard (Representative from California),d
+Ed,Royce,Ed Royce (Representative from California),r
+Marco,Rubio,Marco Rubio (Senator from Florida),r
+Raul,Ruiz,Raul Ruiz (Representative from California),d
+Jon,Runyan,Jon Runyan (Representative from New Jersey),r
+Bobby,Rush,Bobby Rush (Representative from Illinois),d
+Tim,Ryan,Tim Ryan (Representative from Ohio),d
+Paul,Ryan,Paul Ryan (Representative from Wisconsin),r
+Matt,Salmon,Matt Salmon (Representative from Arizona),r
+Linda,Sanchez,Linda Sanchez (Representative from California),d
+Loretta,Sanchez,Loretta Sanchez (Representative from California),d
+Bernard,Sanders,Bernard Sanders (Senator from Vermont),i
+Mark,Sanford,Mark Sanford (Representative from South Carolina),r
+Steve,Scalise,Steve Scalise (Representative from Louisiana),r
+Jan,Schakowsky,Jan Schakowsky (Representative from Illinois),r
+Brian,Schatz,Brian Schatz (Senator from Hawaii),d
+Adam,Schiff,Adam Schiff (Representative from California),d
+Brad,Schneider,Brad Schneider (Representative from Illinois),d
+Kurt,Schrader,Kurt Schrader (Representative from Oregon),d
+Charles,Schumer,Charles Schumer (Senator from New York),d
+David,Schweikert,David Schweikert (Representative from Arizona),r
+Robert,Scott,Robert Scott (Representative from Virginia),r
+Tim,Scott,Tim Scott (Senator from South Carolina),r
+David,Scott,David Scott (Representative from Georgia),d
+Austin,Scott,Austin Scott (Representative from Georgia),r
+James,Sensenbrenner,James Sensenbrenner (Representative from Wisconsin),r
+Jose ,Serrano,Jose Serrano (Representative from New York),d
+Pete,Sessions,Pete Sessions (Representative from Texas),r
+Jeff,Sessions,Jeff Sessions (Senator from Alabama),r
+Terri,Sewell,Terri Sewell (Representative from Alabama),d
+Jeanne,Shaheen,Jeanne Shaheen (Senator from New Hampshire),d
+Carol,Shea-Porter,Carol Shea-Porter (Representative from New Hampshire),d
+Richard,Shelby,Richard Shelby (Senator from Alabama),r
+Brad,Sherman,Brad Sherman (Representative from California),d
+John,Shimkus,John Shimkus (Representative from Illinois),r
+Bill,Shuster,Bill Shuster (Representative from Pennsylvania),r
+Mike,Simpson,Mike Simpson (Representative from Idaho),r
+Kyrsten,Sinema,Kyrsten Sinema (Representative from Arizona),d
+Albio,Sires,Albio Sires (Representative from New Jersey),d
+Louise,Slaughter,Louise Slaughter (Representative from New York),d
+Jason,Smith,Jason Smith (Representative from Missouri),r
+Adam,Smith,Adam Smith (Representative from Washington),d
+Lamar,Smith,Lamar Smith (Representative from Texas),r
+Adrian,Smith,Adrian Smith (Representative from Nebraska),r
+Steve,Southerland,Steve Southerland (Representative from Florida),r
+Jackie,Speier,Jackie Speier (Representative from California),r
+Debbie,Stabenow,Debbie Stabenow (Senator from Michigan),d
+Chris,Stewart,Chris Stewart (Representative from Utah),r
+Steve,Stivers,Steve Stivers (Representative from Ohio),r
+Steve,Stockman,Steve Stockman (Representative from Texas),r
+Marlin,Stutzman,Marlin Stutzman (Representative from Indiana),r
+Eric,Swalwell,Eric Swalwell (Representative from California),d
+Mark,Takano,Mark Takano (Representative from California),d
+Lee,Terry,Lee Terry (Representative from Nebraska),r
+Jon,Tester,Jon Tester (Senator from Montana),d
+Glenn,Thompson,Glenn Thompson (Representative from Pennsylvania),r
+Mike,Thompson,Mike Thompson (Representative from California),d
+Bennie,Thompson,Bennie Thompson (Representative from Mississippi),d
+William,Thornberry,William Thornberry (Representative from Texas),r
+John,Thune,John Thune (Senator from South Dakota),r
+Pat,Tiberi,Pat Tiberi (Representative from Ohio),r
+John,Tierney,John Tierney (Representative from Massachusetts),d
+Scott,Tipton,Scott Tipton (Representative from Colorado),r
+Dina,Titus,Dina Titus (Representative from Nevada),d
+Paul,Tonko,Paul Tonko (Representative from New York),d
+Patrick,Toomey,Patrick Toomey (Senator from Pennsylvania),r
+Niki,Tsongas,Niki Tsongas (Representative from Massachusetts),d
+Michael,Turner,Michael Turner (Representative from Ohio),r
+Mark,Udall,Mark Udall (Senator from Colorado),d
+Tom,Udall,Tom Udall (Senator from New Mexico),d
+Fred,Upton,Fred Upton (Representative from Michigan),r
+David,Valadao,David Valadao (Representative from California),r
+Chris,Van,Chris Van Hollen (Representative from Maryland),d
+Juan,Vargas,Juan Vargas (Representative from California),d
+Marc,Veasey,Marc Veasey (Representative from Texas),d
+Filemon,Vela,Filemon Vela (Representative from Texas),d
+Nydia,Velazquez,Nydia Velazquez (Representative from New York),d
+Peter,Visclosky,Peter Visclosky (Representative from Indiana),d
+David,Vitter,David Vitter (Senator from Louisiana),r
+Ann,Wagner,Ann Wagner (Representative from Missouri),r
+Tim,Walberg,Tim Walberg (Representative from Michigan),r
+Greg,Walden,Greg Walden (Representative from Oregon),r
+Jackie,Walorski,Jackie Walorski (Representative from Indiana),r
+Tim,Walz,Tim Walz (Representative from Minnesota),d
+Mark,Warner,Mark Warner (Senator from Virginia),d
+Elizabeth,Warren,Elizabeth Warren (Senator from Massachusetts),d
+Debbie,Wasserman,Debbie Wasserman Schultz (Representative from Florida),d
+Maxine,Waters,Maxine Waters (Representative from California),d
+Henry,Waxman,Henry Waxman (Representative from California),d
+Randy,Weber,Randy Weber (Representative from Texas),r
+Daniel,Webster,Daniel Webster (Representative from Florida),r
+Peter,Welch,Peter Welch (Representative from Vermont),d
+Brad,Wenstrup,Brad Wenstrup (Representative from Ohio),r
+Lynn,Westmoreland,Lynn Westmoreland (Representative from Georgia),r
+Sheldon,Whitehouse,Sheldon Whitehouse (Senator from Rhode Island),d
+Edward,Whitfield,Edward Whitfield (Representative from Kentucky),r
+Roger,Wicker,Roger Wicker (Senator from Mississippi),r
+Roger,Williams,Roger Williams (Representative from Texas),r
+Frederica,Wilson,Frederica Wilson (Representative from Florida),d
+Joe,Wilson,Joe Wilson (Representative from South Carolina),r
+Robert,Wittman,Robert Wittman (Representative from Virginia),r
+Frank,Wolf,Frank Wolf (Representative from Virginia),r
+Steve,Womack,Steve Womack (Representative from Arkansas),r
+Rob,Woodall,Rob Woodall (Representative from Georgia),r
+Ron,Wyden,Ron Wyden (Senator from Oregon),d
+John,Yarmuth,John Yarmuth (Representative from Kentucky),d
+Kevin,Yoder,Kevin Yoder (Representative from Kansas),r
+Ted,Yoho,Ted Yoho (Representative from Florida),r
+Todd,Young,Todd Young (Representative from Indiana),r
+Don,Young,Don Young (Representative from Alaska),r
