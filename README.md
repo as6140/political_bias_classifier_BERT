@@ -1,7 +1,7 @@
 # Exploring Bias in Tweets by Members of Congress
 Mando Iwanaga & Alex Shropshire
 
-[Exploring Bias in Tweets by Members of Congress](exploring_bias_tweets_by_congress.pdf)
+[Exploring Bias in Tweets by Members of Congress](exploring_bias_in_tweets_by_congress.pdf)
 
 ## Business Understanding
 Twitter has become an epicenter of social and political discourse within 280 characters, and it seems every member of Congress must now engage supporters and critics on the platform as a central part of their political communication strategy. These tweets are not only lacking in communicative depth and breadth, but are very prone to unproductive messaging and political bias. We hope to utilize the power of data science to explore such bias by Congressperson and be able to accurately classify bias as Democrat-leaning, Republican-leaning, or Neutral given new tweet text.
