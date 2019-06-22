@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Exploring Bias in Tweets by Members of Congress
 Mando Iwanaga & Alex Shropshire
 
@@ -16,24 +15,14 @@ Labels existed as "partisan" or "neutral", but we manually labelled each partisa
 Tweets tend to be written in a variety of complicated, somewhat cryptic ways. There is slang, shrothand, abbreviations, domain-specific punctuation, hyperlinks, and a collection of meaningful and meaningless symbols. It was important for us to clean this up and get down to the core meaning of each word used.
 
 ## Modeling
- **We utilized a refactored version of Separius/BERT-keras with guidance from khumbuai/BERT-keras-minimal which focuses on providing the two functionalities:**
-=======
- Pretrained BERT model:
+We utilized a refactored version of Separius/BERT-keras with guidance from khumbuai/BERT-keras-minimal which focuses on providing the two functionalities:*
+ #### Pretrained BERT model:
  [BERT-Base, Multilingual Cased (New, recommended)](https://storage.googleapis.com/bert_models/2018_11_23/multi_cased_L-12_H-768_A-12.zip): 104 languages, 12-layer, 768-hidden, 12-heads, 110M parameters
- 
- 
- **Refactored version of Separius/BERT-keras which focuses on providing the two functionalities:**
- 
- * _Load a pretrained tensorflow BERT model (load_pretrained_bert.py) and use it as a usual keras model_
- * _Provide a batch_generator (batch_generator.py) which provides the required input for the keras model (text tokenization, positional encoding and segment encoding)._
->>>>>>> dd3a64dfb0bb36188d071dee99d88b1413244e0d
- 
- * Load a pretrained tensorflow BERT model (load_pretrained_bert.py) and use it as a usual keras model
- * Provide a batch_generator (batch_generator.py) which provides the required input for the keras model (text tokenization, positional encoding and segment encoding).
+* Load a pretrained tensorflow BERT model (load_pretrained_bert.py) and use it as a usual keras model
+* Provide a batch_generator (batch_generator.py) which provides the required input for the keras model (text tokenization, positional encoding and segment encoding).
 * We keep the vocabulary ordering of the original tensoflow implementation.
 
-
- **Loading google BERT from a tensorflow model:**
+ #### Loading google BERT from a tensorflow model:**
 load_google_bert loads the weights from a pretrained tensorflow checkpoint. In particular, it loads all position embeddings weights, even if the keras model has a shorter sequence length. It is therefore possible to train a model with e.g. a sequence length of 70, with positional embeddings frozen and then to load the model for inference with a larger sequence length.
 
 After extracting the valuable information yielded by BERT, we created a final Dense softmax layer of size 3 to classify each tweet (R, D, Neutral). We used a 75/25 train/test split, and had nearly 4K tweets to train on and just ovoer 1K tweets to test on, yielding a final model.
@@ -46,15 +35,10 @@ The model was evaluated on the ~1K test tweets. The model had an accuracy of abo
 ## Deployment & Future Work
 With more time to collaborate, we would hope to stand up a Flask app that allows users to view Congresspeople ranked by neutrality to view who keeps their political Twitter communication constructive and factual. We would also want to learn about those who are often biased in their Tweets, what words they like to use that may be leading to such a classification, and if these words are truly representative of a close-minded vocabulary or if they are simply victim to our model's limited knowledge. We'd also want to understand which specific buzzwords tend to swing classifications to one side or the other, and which ones are powerfully neutral. Please share any thoughts and ideas with us as you explore our process!
 
-<<<<<<< HEAD
 ## Citations:
 [BERT research](https://arxiv.org/abs/1810.04805)
+
 [Figure Eight Data Source](https://www.figure-eight.com/data-for-everyone/)
+
 [Khumbuai Example with Quora Data](https://github.com/khumbuai/BERT-keras-minimal/blob/master/example_kaggle_quora_insincere.py)
-=======
- **Load google BERT from a tensorflow model:**
-load_google_bert loads the weights from a pretrained tensorflow checkpoint. In particular, it loads
-all position embeddings weights, even if the keras model has a shorter sequence length. It is therefore possible to train
-a model with e.g. a sequence length of 70, with positional embeddings frozen and then to load the model for inference
-with a larger sequence length.
->>>>>>> dd3a64dfb0bb36188d071dee99d88b1413244e0d
+
